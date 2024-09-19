@@ -1,0 +1,1 @@
+web: java -jar target/railway-api-deploy-0.0.1-SNAPSHOT.jar
